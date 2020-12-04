@@ -1,1 +1,2 @@
+- Merge in feature 2
 - Merge in feature 1
